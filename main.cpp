@@ -25,5 +25,6 @@ int main()
 
     //lefoglalt memória felszabadítása
     delete[] b;
+    std::cout << "Szia! Ezt a sort a játékfejlesztő társad adta hozza a programhoz." << std::endl;
     return 0;
 }
